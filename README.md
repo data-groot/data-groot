@@ -4,9 +4,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&title_color=ffffff&icon_color=00d4ff&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&title_color=ffffff&icon_color=00d4ff&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0e27&title_color=ffffff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-groot&layout=compact&theme=dark&hide_border=true&bg_color=0a0e27&title_color=ffffff&text_color=ffffff)
 
 ![Metrics](github-metrics.svg)
 
@@ -17,12 +17,12 @@
 ║                           WHOAMI                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-Master's in Computer Science | Data Engineer + ML Background
+Master's in Computer Science @ University of Maryland, Baltimore County | Data Engineer + ML Background
 
-Currently focused on designing and implementing scalable data engineering 
-solutions, building interactive dashboards, and developing production ML 
-systems. Passionate about turning raw data into actionable insights and 
-deploying models that drive real-world impact.
+Volunteer Data Scientist at Community Dreams Foundation, building end-to-end data pipelines 
+and ML models. Previously Software Engineering Intern at Maroon Group, designing scalable 
+ELT pipelines with AWS. Passionate about turning raw data into actionable insights and 
+deploying production ML systems that drive real-world impact.
 
 ```
 
@@ -32,16 +32,16 @@ deploying models that drive real-world impact.
 ╚═══════════════════════════════════════════════════════════════════════╝
 
 Languages & Frameworks
-  • Python | SQL | TypeScript | React
+  • Python | SQL | TypeScript | React | Java | JavaScript | R | C/C++
 
 Cloud & Data Infrastructure
-  • AWS (S3, Athena, Glue, Lambda, EC2) | Data Lakes | ETL Pipelines
+  • AWS (Athena, Glue, S3) | BigQuery | PostgreSQL | Mode Analytics | ETL/ELT Pipelines
 
 Machine Learning
-  • LightGBM | XGBoost | Scikit-learn | Model Deployment | MLOps
+  • LightGBM | XGBoost | Scikit-learn | PyTorch | TensorFlow | NLP | RAG | Model Deployment
 
 Tools & Technologies
-  • Git | Docker | Airflow | Pandas | NumPy | Dashboards & Visualization
+  • Pandas | NumPy | Docker | CI/CD | Shell Scripting | Git | Plotly | Streamlit | FastAPI
 
 ```
 
@@ -61,19 +61,19 @@ your core skills, recent contributions, or work you're particularly proud of.
 ║                         PROJECTS                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-[1] Real-Time Data Pipeline System
-    • Built scalable ETL pipeline processing millions of records daily using AWS Glue and Athena
-    • Implemented automated data quality checks and monitoring dashboards
+[1] Production-Ready Pulsar Candidate Classification with SMOTE-Enhanced ML Pipelines
+    • Built end-to-end binary classification pipeline on HTRU2 dataset (12k samples) using sklearn, SMOTE, and Docker
+    • Improved minority-class detection recall from 82.3% → 89.6% (ROC-AUC 0.97), deployed as Streamlit + FastAPI app
     [Repo] [placeholder-link]
 
-[2] ML-Based Predictive Analytics Dashboard
-    • Developed production ML model using LightGBM for time-series forecasting
-    • Created interactive React/TypeScript dashboard for model visualization and insights
+[2] Detection of Machine Generated Text Using LLMs
+    • Engineered AI-generated text detection system using LSTM and BERT, achieving 99.16% accuracy
+    • Published in IEEE ICEC 2024; optimized transformer models for robust text classification
     [Repo] [placeholder-link]
 
-[3] Data Lake Architecture & Optimization
-    • Designed and optimized partitioned data lake structure reducing query costs by 60%
-    • Automated data ingestion workflows with error handling and retry mechanisms
+[3] Interview Scheduler
+    • Built React-based scheduling application with 10+ reusable components and API integration
+    • Implemented automated email workflows reducing candidate no-show rates by 25%
     [Repo] [placeholder-link]
 
 ```
@@ -83,12 +83,8 @@ your core skills, recent contributions, or work you're particularly proud of.
 ║                       PUBLICATIONS                                     ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-[1] "Scalable Machine Learning Pipelines for Large-Scale Data Processing"
-    Conference/Journal Name, Year
-    [Link] [placeholder-link]
-
-[2] "Optimizing Data Lake Queries: A Performance Analysis of Partitioning Strategies"
-    Conference/Journal Name, Year
+[1] "Detection of Machine Generated Text Using LLMs"
+    IEEE International Conference on Electronics and Communication (ICEC), 2024
     [Link] [placeholder-link]
 
 ```
@@ -98,7 +94,7 @@ your core skills, recent contributions, or work you're particularly proud of.
 ║                          CONTACT                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-LinkedIn: [placeholder-link]
-Email:    [placeholder-email]
+LinkedIn: https://linkedin.com/in/Mihir
+Email:    krishnamihir.ed@gmail.com
 
 ```
