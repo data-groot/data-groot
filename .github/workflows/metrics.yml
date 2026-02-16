@@ -1,0 +1,124 @@
+name: Metrics
+
+on:
+  # Run workflow on a schedule (daily at 00:00 UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+  # Run on push to main/master branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      # Required permissions for the workflow to commit back to the repository
+      contents: write
+      # Required to read repository metadata
+      read: repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Required for committing back to the repository
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # GitHub token (GITHUB_TOKEN is auto-provided by GitHub Actions)
+          # If you need to access private repos or have rate limit issues,
+          # create a Personal Access Token (PAT) with 'repo' scope and add it
+          # as a secret named 'GH_TOKEN' in: Settings > Secrets and variables > Actions
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          
+          # Output file path
+          filename: github-metrics.svg
+          
+          # Output to a specific directory (optional, defaults to root)
+          output: github-metrics.svg
+          
+          # Metrics configuration
+          # Base settings
+          base: header, activity, community, repositories, metadata
+          
+          # Activity plugin settings
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          
+          # Languages plugin
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+          
+          # Lines of code plugin
+          plugin_lines: yes
+          plugin_lines_ratio: 0.5
+          
+          # Followers plugin
+          plugin_followers: yes
+          
+          # Achievements plugin
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          
+          # Isocalendar plugin (contribution graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # Topics plugin
+          plugin_topics: yes
+          plugin_topics_limit: 8
+          plugin_topics_mode: starred
+          
+          # Habits plugin (commit activity)
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          
+          # Stargazers plugin
+          plugin_stargazers: yes
+          
+          # People plugin (contributors)
+          plugin_people: yes
+          
+          # Ranks plugin
+          plugin_ranks: yes
+          plugin_ranks_mode: percentile
+          plugin_ranks_sections: activity, repositories, contributions
+          
+          # Repositories plugin
+          plugin_repositories: yes
+          plugin_repositories_limit: 8
+          plugin_repositories_affiliations: owner, collaborator
+          plugin_repositories_features: stars, forks, languages
+          
+          # Gists plugin
+          plugin_gists: yes
+          
+          # Commits plugin
+          plugin_commits: yes
+          plugin_commits_limit: 20
+          
+          # Base configuration
+          config_octocat: hide
+          config_display: large
+          config_order: header, activity, community, repositories, metadata
+
+      - name: Commit metrics
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add github-metrics.svg
+          git diff --staged --quiet || git commit -m "📊 Update metrics [skip ci]"
+          git push
