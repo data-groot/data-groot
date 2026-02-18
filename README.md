@@ -47,17 +47,6 @@ Tools & Technologies
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║                      PINNED REPOSITORIES                               ║
-╚═══════════════════════════════════════════════════════════════════════╝
-
-Pin up to 6 repositories on your GitHub profile to showcase your best work.
-These will appear above your README. Consider pinning projects that demonstrate
-your core skills, recent contributions, or work you're particularly proud of.
-
-```
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
 ║                         PROJECTS                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
