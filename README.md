@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=250&section=header&text=Hi%20there,%20I'm%20Mihir!&fontSize=50&fontColor=ffffff&desc=Data%20Engineer%20%26%20Machine%20Learning%20Practitioner&descAlignY=70&descAlign=62" alt="Header" />
+  <h1>Hi there, I'm Mihir! 👋</h1>
+  <h3>Data Engineer & Machine Learning Practitioner</h3>
 </div>
 
 <div align="center">
@@ -17,11 +18,10 @@
 <br/>
 
 <div align="center">
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Master's+in+CS+%40+UMBC;Data+Engineer+%2B+ML+Background;Building+Scalable+Data+Pipelines;Deploying+Production+ML+Systems" alt="Typing SVG" />
-    </a>
-  </h3>
+  <p>
+    <b>👨‍🎓 Master's in CS @ UMBC &nbsp;|&nbsp; 📊 Data Engineer + ML Background</b><br/>
+    <b>🚀 Building Scalable Data Pipelines &nbsp;|&nbsp; 🤖 Deploying Production ML Systems</b>
+  </p>
 </div>
 
 ---
@@ -112,7 +112,7 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-groot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
 </div>
 <br/>
