@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Mihir! 👋</h1>
-  <h3>Data Engineer & Machine Learning Practitioner</h3>
+  <h3>Data Engineer & Software Engineer</h3>
 </div>
 
 <div align="center">
@@ -29,8 +29,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Master's in Computer Science** @ University of Maryland, Baltimore County (UMBC).
+- 💻 **Full Stack Engineer Intern** at *Velociti Inc.*, building features with React, TypeScript, and Supabase.
 - 🤝 **Volunteer Data Scientist** at *Community Dreams Foundation*, building end-to-end data pipelines and ML models.
-- 💼 **Previously**: Software Engineering Intern at *Maroon Group*, designing scalable ELT pipelines with AWS.
+- 💼 **Previously**: Data Engineering Intern at *Maroon Group* and Virtual Developer at *Salesforce*.
 - 💡 **Passionate about**: Turning raw data into actionable insights and deploying production ML systems that drive real-world impact.
 
 ---
@@ -91,10 +92,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="#">📅 Interview Scheduler</a></h4>
-      <p>React-based scheduling application with 10+ reusable components and API integration.</p>
+      <h4><a href="#">⚡ Pipeline Pulse - Observability Platform</a></h4>
+      <p>Full-stack pipeline monitoring platform processing 10k+ events/day with sub-200ms latency.</p>
       <ul>
-        <li>Implemented automated email workflows reducing candidate no-show rates by 25%.</li>
+        <li>Built with FastAPI, PostgreSQL, Airflow, dbt, and a Next.js + TS dashboard.</li>
+        <li>Containerized via Docker and deployed to Kubernetes with CI/CD.</li>
       </ul>
       <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
     </td>
