@@ -30,8 +30,7 @@
 
 - 🎓 **Master's in Computer Science** @ University of Maryland, Baltimore County (UMBC).
 - 💻 **Full Stack Engineer Intern** at *Velociti Inc.*, building features with React, TypeScript, and Supabase.
-- 🤝 **Volunteer Data Scientist** at *Community Dreams Foundation*, building end-to-end data pipelines and ML models.
-- 💼 **Previously**: Data Engineering Intern at *Maroon Group* and Virtual Developer at *Salesforce*.
+- 💼 **Previously**: Data Engineering Intern at *Date Maroon* and Virtual Developer at *Salesforce*.
 - 💡 **Passionate about**: Turning raw data into actionable insights and deploying production ML systems that drive real-world impact.
 
 ---
