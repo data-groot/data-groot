@@ -77,17 +77,17 @@
 <div align="center">
 
 <a href="https://github.com/data-groot/pipelinepulse">
-  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=pipelinepulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pipelinepulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 <a href="https://github.com/data-groot/pulsar-classification">
-  <img width="48%" alt="Pulsar classification research" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=pulsar-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+  <img width="48%" alt="Pulsar classification research" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 
 <a href="https://github.com/data-groot/medical-image-classification">
-  <img width="48%" alt="Medical image classification" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=medical-image-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+  <img width="48%" alt="Medical image classification" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=medical-image-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 <a href="https://github.com/data-groot/ddos-llm-text-detection">
-  <img width="48%" alt="IEEE DDoS and LLM text detection" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=ddos-llm-text-detection&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+  <img width="48%" alt="IEEE DDoS and LLM text detection" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=ddos-llm-text-detection&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 
 </div>
@@ -101,10 +101,10 @@
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<img height="180" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=data-groot&show_icons=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 <img height="180" alt="streak stats" src="https://streak-stats.demolab.com?user=data-groot&background=0a0a0f&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39FF14" />
 
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-groot&layout=compact&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<img alt="top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=data-groot&layout=compact&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 
 </div>
 
