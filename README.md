@@ -1,127 +1,150 @@
-<div align="center">
-  <h1>Hi there, I'm Mihir! 👋</h1>
-  <h3>Data Engineer & Software Engineer</h3>
-</div>
+<!-- ================================================================== -->
+<!-- data-groot · GitHub profile README                                  -->
+<!-- Palette (used everywhere, do not mix):                              -->
+<!--   base    #0a0a0f  (near black)                                     -->
+<!--   accent  #39FF14  (acid green)                                     -->
+<!--   text    #c9d1d9  (light gray)                                     -->
+<!--   muted   #8b949e  (dim gray)                                       -->
+<!-- Search for "EDIT:" comments to find every placeholder before push.  -->
+<!-- ================================================================== -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krishna-mihir-tatavarthi-4634881bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:krishnamihir.ed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/data-groot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+
+<!-- EDIT: banner text is your name; swap for "data--groot" if you prefer the handle -->
+<img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,100:39FF14&text=Krishna%20Mihir&fontSize=58&fontColor=39FF14&fontAlignY=36&desc=grow%20the%20data%2C%20root%20the%20models&descSize=18&descAlignY=56&animation=fadeIn" />
+
+<a href="https://github.com/data-groot">
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer+%7C+AI+Solutions+Architect;Building+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+ML+for+DDoS+%2B+LLM-text+detection;I+am+Groot.+I+am+also+data." />
+</a>
 
 <br/>
 
-<div align="center">
-  <p>
-    <b>👨‍🎓 Master's in CS @ UMBC &nbsp;|&nbsp; 📊 Data Engineer + ML Background</b><br/>
-    <b>🚀 Building Scalable Data Pipelines &nbsp;|&nbsp; 🤖 Deploying Production ML Systems</b>
-  </p>
+<!-- EDIT: replace YOUR-LINKEDIN-SLUG with your real LinkedIn handle -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+</a>
+<a href="mailto:k354@umbc.edu"><!-- EDIT: confirm this is the email you want public -->
+  <img alt="Email" src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+</a>
+<a href="https://github.com/data-groot">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=39FF14" />
+</a>
+
 </div>
 
----
+## 🌱 About me
 
-### 👨‍💻 About Me
+- 🎓 MS in Computer Science @ **UMBC**, GPA 3.92
+- 🛠️ Founding Software Engineer Intern @ **Velociti Inc.**, full-stack work with React, TypeScript, and Supabase
+- 🗄️ Previously Data Engineering @ **Maroon Group**, building pipelines on AWS Glue, Athena, and CDK
+- 🔬 Graduate Research Assistant applying machine learning to real research problems
+- 📄 Co-author of an **IEEE publication** on ML-based DDoS detection and LLM-generated text detection
+- 🚧 Currently building **PipelinePulse**, a multi-tenant ETL observability platform
+- 🎯 Aiming at **ML Engineer / AI Solutions Architect / Software Engineer** roles
 
-- 🎓 **Master's in Computer Science** @ University of Maryland, Baltimore County (UMBC).
-- 💻 **Full Stack Engineer Intern** at *Velociti Inc.*, building features with React, TypeScript, and Supabase.
-- 💼 **Previously**: Data Engineering Intern at *Date Maroon* and Virtual Developer at *Salesforce*.
-- 💡 **Passionate about**: Turning raw data into actionable insights and deploying production ML systems that drive real-world impact.
+## ⚡ Tech stack
 
----
+**🧠 ML & Data**
 
-### 🛠️ Tech Stack & Tools
+<img alt="ML and data icons" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,js,c,cpp,r" alt="Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,postgres,docker,githubactions,bash,git" alt="Infrastructure" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,react,fastapi" alt="ML & Frameworks" />
-  </a>
-</p>
+<!-- dbt/AWS logos were removed from shields.io (simple-icons), so those badges use custom-icon-badges.demolab.com instead -->
+<img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-0a0a0f?style=for-the-badge&logo=apacheairflow&logoColor=39FF14" /> <img alt="dbt" src="https://custom-icon-badges.demolab.com/badge/dbt-0a0a0f?style=for-the-badge&logo=dbt&logoColor=39FF14" /> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-0a0a0f?style=for-the-badge&logo=pandas&logoColor=39FF14" />
 
-<details>
-<summary><b>🔍 Detailed Skills List</b> (Click to expand)</summary>
-<br/>
+**⚙️ Backend**
 
-- **Languages & Frameworks:** Python, SQL, TypeScript, React, Java, JavaScript, R, C/C++
-- **Cloud & Data Infrastructure:** AWS (Athena, Glue, S3), BigQuery, PostgreSQL, Mode Analytics, ETL/ELT Pipelines
-- **Machine Learning:** LightGBM, XGBoost, Scikit-learn, PyTorch, TensorFlow, NLP, RAG, Model Deployment
-- **Tools & Technologies:** Pandas, NumPy, Docker, CI/CD, Shell Scripting, Git, Plotly, Streamlit, FastAPI
+<img alt="backend icons" src="https://skillicons.dev/icons?i=fastapi,postgres,supabase&theme=dark" />
 
-</details>
+**🖥️ Frontend**
 
----
+<img alt="frontend icons" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
 
-### 🚀 Featured Projects
+**☁️ Cloud & Infra**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="#">🌌 Pulsar Candidate Classification</a></h4>
-      <p>Production-ready binary classification pipeline on HTRU2 dataset (12k samples) using sklearn, SMOTE, and Docker.</p>
-      <ul>
-        <li>Improved minority-class detection recall from 82.3% → 89.6% (ROC-AUC 0.97).</li>
-        <li>Deployed as a Streamlit + FastAPI app.</li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="#">📝 AI-Generated Text Detection</a></h4>
-      <p>Engineered an AI-generated text detection system using LSTM and BERT, achieving 99.16% accuracy.</p>
-      <ul>
-        <li>Optimized transformer models for robust text classification.</li>
-        <li>Published in IEEE ICEC 2024.</li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="#">⚡ Pipeline Pulse - Observability Platform</a></h4>
-      <p>Full-stack pipeline monitoring platform processing 10k+ events/day with sub-200ms latency.</p>
-      <ul>
-        <li>Built with FastAPI, PostgreSQL, Airflow, dbt, and a Next.js + TS dashboard.</li>
-        <li>Containerized via Docker and deployed to Kubernetes with CI/CD.</li>
-      </ul>
-      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="#">📚 Publications</a></h4>
-      <p><b>"Detection of Machine Generated Text Using LLMs"</b><br/>
-      <i>IEEE International Conference on Electronics and Communication (ICEC), 2024</i></p>
-      <a href="#"><img src="https://img.shields.io/badge/View_Paper-00d4ff?style=flat-square&logoColor=white" alt="Paper"/></a>
-    </td>
-  </tr>
-</table>
+<img alt="cloud and infra icons" src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux&theme=dark" />
 
----
+<img alt="AWS Glue" src="https://custom-icon-badges.demolab.com/badge/AWS%20Glue-0a0a0f?style=for-the-badge&logo=aws&logoColor=39FF14" /> <img alt="AWS Athena" src="https://custom-icon-badges.demolab.com/badge/AWS%20Athena-0a0a0f?style=for-the-badge&logo=aws&logoColor=39FF14" /> <img alt="AWS CDK" src="https://custom-icon-badges.demolab.com/badge/AWS%20CDK-0a0a0f?style=for-the-badge&logo=aws&logoColor=39FF14" />
 
-### 📈 GitHub Analytics
+## 🚀 Featured projects
+
+<!-- EDIT: the four repo names below are guesses. Point each card + link at the -->
+<!-- real repo once it exists and is public; until then GitHub shows a          -->
+<!-- "repo not found" card, which is expected.                                  -->
+<!-- NOTE: if github-readme-stats.vercel.app cards ever show as broken (the      -->
+<!-- shared instance pauses when it hits Vercel free-tier limits), swap the host -->
+<!-- to a mirror like github-readme-stats-sigma-five.vercel.app or self-host per -->
+<!-- the anuraghazra/github-readme-stats docs. Same paths and params.            -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-groot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-groot&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<a href="https://github.com/data-groot/pipelinepulse">
+  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=pipelinepulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+</a>
+<a href="https://github.com/data-groot/pulsar-classification">
+  <img width="48%" alt="Pulsar classification research" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=pulsar-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+</a>
+
+<a href="https://github.com/data-groot/medical-image-classification">
+  <img width="48%" alt="Medical image classification" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=medical-image-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+</a>
+<a href="https://github.com/data-groot/ddos-llm-text-detection">
+  <img width="48%" alt="IEEE DDoS and LLM text detection" src="https://github-readme-stats.vercel.app/api/pin/?username=data-groot&repo=ddos-llm-text-detection&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+</a>
+
 </div>
 
-<br/>
+- **PipelinePulse** · multi-tenant ETL observability: Next.js, FastAPI, PostgreSQL, Airflow, dbt, Docker, Kubernetes
+- **Pulsar classification** · ML research on pulsar candidate detection
+- **Medical image classification** · CNN transfer learning with DenseNet121, EfficientNetB3, ResNet50V2
+- **DDoS + LLM-text detection** · code behind the IEEE publication
+
+## 📊 GitHub stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=data-groot&color=00d4ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=data-groot&show_icons=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<img height="180" alt="streak stats" src="https://streak-stats.demolab.com?user=data-groot&background=0a0a0f&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39FF14" />
+
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-groot&layout=compact&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+
 </div>
+
+## 🐍 Contribution snake
+
+<!-- Generated by .github/workflows/snake.yml in this repo. The images 404      -->
+<!-- until the workflow has run once and created the "output" branch.           -->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/data-groot/data-groot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/data-groot/data-groot/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/data-groot/data-groot/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+## 🤝 Let's connect
+
+I am always up for talking about ML systems, data platforms, or an interesting pipeline failure story. The fastest ways to reach me:
+
+<div align="center">
+
+<!-- EDIT: same LinkedIn placeholder as the header -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+</a>
+<a href="mailto:k354@umbc.edu">
+  <img alt="Email" src="https://img.shields.io/badge/Say%20hello-0a0a0f?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+</a>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:39FF14,100:0a0a0f&section=footer" />
+
+</div>
+
+<!-- ================================================================== -->
+<!-- ONE-TIME SETUP for the snake workflow:                              -->
+<!-- 1. Repo Settings → Actions → General → Workflow permissions →       -->
+<!--    select "Read and write permissions" and save.                    -->
+<!-- 2. Actions tab → "generate contribution snake" → Run workflow.      -->
+<!--    That first manual run creates the "output" branch the snake      -->
+<!--    images load from; after that it refreshes daily on its own.      -->
+<!-- ================================================================== -->
