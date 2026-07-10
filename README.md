@@ -69,10 +69,11 @@
 <!-- EDIT: the four repo names below are guesses. Point each card + link at the -->
 <!-- real repo once it exists and is public; until then GitHub shows a          -->
 <!-- "repo not found" card, which is expected.                                  -->
-<!-- NOTE: if github-readme-stats.vercel.app cards ever show as broken (the      -->
-<!-- shared instance pauses when it hits Vercel free-tier limits), swap the host -->
-<!-- to a mirror like github-readme-stats-sigma-five.vercel.app or self-host per -->
-<!-- the anuraghazra/github-readme-stats docs. Same paths and params.            -->
+<!-- NOTE: stats/pin cards use the github-readme-stats-sigma-five.vercel.app     -->
+<!-- mirror because the main github-readme-stats.vercel.app instance was paused  -->
+<!-- (it hits Vercel free-tier limits). Either host works; if the mirror ever    -->
+<!-- breaks, swap back to the main one or self-host per the                      -->
+<!-- anuraghazra/github-readme-stats docs. Same paths and params.                -->
 
 <div align="center">
 
