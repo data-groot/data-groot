@@ -19,8 +19,7 @@
 
 <br/>
 
-<!-- EDIT: replace YOUR-LINKEDIN-SLUG with your real LinkedIn handle -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+<a href="https://www.linkedin.com/in/krishna-mihir-tatavarthi">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
 <a href="mailto:k354@umbc.edu"><!-- EDIT: confirm this is the email you want public -->
@@ -128,8 +127,7 @@ I am always up for talking about ML systems, data platforms, or an interesting p
 
 <div align="center">
 
-<!-- EDIT: same LinkedIn placeholder as the header -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG">
+<a href="https://www.linkedin.com/in/krishna-mihir-tatavarthi">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
 </a>
 <a href="mailto:k354@umbc.edu">
