@@ -14,7 +14,7 @@
 <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,100:39FF14&text=Krishna%20Mihir&fontSize=58&fontColor=39FF14&fontAlignY=36&desc=grow%20the%20data%2C%20root%20the%20models&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <a href="https://github.com/data-groot">
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer;Building+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+ML+for+DDoS+%2B+LLM-text+detection;I+am+Groot.+I+am+also+data." />
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer;Building+SystemAtlas+AI+%C2%B7+map+your+code%2C+data+%26+architecture;Built+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+LLM-generated+text+detection;I+am+Groot.+I+am+also+data." />
 </a>
 
 <br/>
@@ -38,6 +38,7 @@
 - 🗄️ Previously Data Engineering @ **Date Maroon**, building pipelines on AWS Glue, Athena, and CDK
 - 🔬 Graduate Research Assistant applying machine learning to real research problems
 - 📄 Co-author of an **IEEE publication** on LLM-generated text detection
+- 🛰️ Currently building **SystemAtlas AI** — an engineering-intelligence platform that indexes repos, schemas, and datasets into a cross-layer knowledge graph you can chat with
 - 🚧 Built **PipelinePulse**, a multi-tenant ETL observability platform
 - 🎯 Aiming at **ML Engineer / Software Engineer** roles
 
@@ -77,26 +78,32 @@
 
 <div align="center">
 
-<a href="https://github.com/data-groot/pipelinepulse">
-  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pipelinepulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<a href="https://github.com/data-groot/System-Atlas-AI">
+  <img width="48%" alt="SystemAtlas AI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=System-Atlas-AI&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
-<a href="https://github.com/data-groot/pulsar-classification">
-  <img width="48%" alt="Pulsar classification research" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<a href="https://github.com/data-groot/PipelinePulse">
+  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=PipelinePulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 
-<a href="https://github.com/data-groot/medical-image-classification">
-  <img width="48%" alt="Medical image classification" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=medical-image-classification&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<a href="https://github.com/data-groot/pulsar-star-prediction-service">
+  <img width="48%" alt="Pulsar star prediction service" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-star-prediction-service&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
-<a href="https://github.com/data-groot/ddos-llm-text-detection">
-  <img width="48%" alt="IEEE DDoS and LLM text detection" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=ddos-llm-text-detection&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<a href="https://github.com/data-groot/Pneumonia-Detection-Deep-Learning">
+  <img width="48%" alt="Pneumonia detection with deep learning" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Pneumonia-Detection-Deep-Learning&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+</a>
+
+<a href="https://github.com/data-groot/Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment">
+  <img width="48%" alt="DDoS detection and prevention using ML" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
 </a>
 
 </div>
 
+- **SystemAtlas AI** · building now — engineering intelligence: cross-layer knowledge graph over repos, schemas & datasets, evidence-grounded AI chat, UI→database tracing (Node.js, Express, React)
 - **PipelinePulse** · multi-tenant ETL observability: Next.js, FastAPI, PostgreSQL, Airflow, dbt, Docker, Kubernetes
-- **Pulsar classification** · ML research on pulsar candidate detection
-- **Medical image classification** · CNN transfer learning with DenseNet121, EfficientNetB3, ResNet50V2
-- **DDoS + LLM-text detection** · code behind the IEEE publication
+- **Pulsar star prediction** · end-to-end ML system: model training, FastAPI inference service, Streamlit dashboard
+- **Pneumonia detection** · chest X-ray classification benchmarking CNN, DenseNet121, EfficientNetB3, ResNet50V2
+- **DDoS detection & prevention** · ML-based detection of DDoS attacks in cloud environments
+- **LLM-generated text detection** · research behind the IEEE publication
 
 ## 📊 GitHub stats
 
