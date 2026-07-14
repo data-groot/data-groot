@@ -14,7 +14,7 @@
 <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,100:39FF14&text=Krishna%20Mihir&fontSize=58&fontColor=39FF14&fontAlignY=36&desc=grow%20the%20data%2C%20root%20the%20models&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <a href="https://github.com/data-groot">
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer+%7C+AI+Solutions+Architect;Building+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+ML+for+DDoS+%2B+LLM-text+detection;I+am+Groot.+I+am+also+data." />
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer;Building+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+ML+for+DDoS+%2B+LLM-text+detection;I+am+Groot.+I+am+also+data." />
 </a>
 
 <br/>
