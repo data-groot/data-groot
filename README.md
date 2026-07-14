@@ -78,23 +78,40 @@
 
 <div align="center">
 
-<a href="https://github.com/data-groot/System-Atlas-AI">
-  <img width="48%" alt="SystemAtlas AI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=System-Atlas-AI&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-</a>
-<a href="https://github.com/data-groot/PipelinePulse">
-  <img width="48%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=PipelinePulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-</a>
-
-<a href="https://github.com/data-groot/pulsar-star-prediction-service">
-  <img width="48%" alt="Pulsar star prediction service" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-star-prediction-service&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-</a>
-<a href="https://github.com/data-groot/Pneumonia-Detection-Deep-Learning">
-  <img width="48%" alt="Pneumonia detection with deep learning" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Pneumonia-Detection-Deep-Learning&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-</a>
-
-<a href="https://github.com/data-groot/Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment">
-  <img width="48%" alt="DDoS detection and prevention using ML" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/data-groot/System-Atlas-AI">
+        <img width="100%" alt="System-Atlas-AI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=System-Atlas-AI&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/data-groot/PipelinePulse">
+        <img width="100%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=PipelinePulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/data-groot/pulsar-star-prediction-service">
+        <img width="100%" alt="pulsar-star-prediction-service" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-star-prediction-service&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/data-groot/Pneumonia-Detection-Deep-Learning">
+        <img width="100%" alt="Pneumonia-Detection-Deep-Learning" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Pneumonia-Detection-Deep-Learning&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/data-groot/Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment">
+        <img width="100%" alt="Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 </div>
 
