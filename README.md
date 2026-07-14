@@ -14,7 +14,7 @@
 <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,100:39FF14&text=Krishna%20Mihir&fontSize=58&fontColor=39FF14&fontAlignY=36&desc=grow%20the%20data%2C%20root%20the%20models&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <a href="https://github.com/data-groot">
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=ML+Engineer;Building+SystemAtlas+AI+%C2%B7+map+your+code%2C+data+%26+architecture;Built+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+LLM-generated+text+detection;I+am+Groot.+I+am+also+data." />
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=780&height=50&lines=ML+Engineer;Building+SystemAtlas+AI+%C2%B7+map+your+code+%26+data;Built+PipelinePulse+%C2%B7+ETL+observability+at+scale;IEEE+published%3A+LLM-generated+text+detection;I+am+Groot.+I+am+also+data." />
 </a>
 
 <br/>
@@ -82,34 +82,26 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/data-groot/System-Atlas-AI">
-        <img width="100%" alt="System-Atlas-AI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=System-Atlas-AI&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+        <img width="100%" alt="System-Atlas-AI" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=System-Atlas-AI&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/data-groot/PipelinePulse">
-        <img width="100%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=PipelinePulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+        <img width="100%" alt="PipelinePulse" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=PipelinePulse&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/data-groot/pulsar-star-prediction-service">
-        <img width="100%" alt="pulsar-star-prediction-service" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-star-prediction-service&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+        <img width="100%" alt="pulsar-star-prediction-service" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=pulsar-star-prediction-service&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/data-groot/Pneumonia-Detection-Deep-Learning">
-        <img width="100%" alt="Pneumonia-Detection-Deep-Learning" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Pneumonia-Detection-Deep-Learning&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+        <img width="100%" alt="Pneumonia-Detection-Deep-Learning" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Pneumonia-Detection-Deep-Learning&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/data-groot/Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment">
-        <img width="100%" alt="Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=data-groot&repo=Detection-and-Prevention-of-DDoS-Attacks-using-ML-in-Cloud-Environment&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -126,10 +118,10 @@
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=data-groot&show_icons=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<img height="180" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=data-groot&show_icons=true&include_all_commits=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
 <img height="180" alt="streak stats" src="https://streak-stats.demolab.com?user=data-groot&background=0a0a0f&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39FF14" />
 
-<img alt="top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=data-groot&layout=compact&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true" />
+<img alt="top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=data-groot&layout=compact&langs_count=8&title_color=39FF14&text_color=c9d1d9&bg_color=0a0a0f&hide_border=true&v=2" />
 
 </div>
 
