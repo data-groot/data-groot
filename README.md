@@ -34,12 +34,12 @@
 ## 🌱 About me
 
 - 🎓 MS in Computer Science @ **UMBC**, GPA 3.92
-- 🛠️ Founding Software Engineer Intern @ **Velociti Inc.**, full-stack work with React, TypeScript, and Supabase
-- 🗄️ Previously Data Engineering @ **Maroon Group**, building pipelines on AWS Glue, Athena, and CDK
+- 🛠️ Founding Software Engineer Intern @ **VelocitiPM**, full-stack work with React, TypeScript, and Supabase
+- 🗄️ Previously Data Engineering @ **Date Maroon**, building pipelines on AWS Glue, Athena, and CDK
 - 🔬 Graduate Research Assistant applying machine learning to real research problems
-- 📄 Co-author of an **IEEE publication** on ML-based DDoS detection and LLM-generated text detection
-- 🚧 Currently building **PipelinePulse**, a multi-tenant ETL observability platform
-- 🎯 Aiming at **ML Engineer / AI Solutions Architect / Software Engineer** roles
+- 📄 Co-author of an **IEEE publication** on LLM-generated text detection
+- 🚧 Built **PipelinePulse**, a multi-tenant ETL observability platform
+- 🎯 Aiming at **ML Engineer / Software Engineer** roles
 
 ## ⚡ Tech stack
 
